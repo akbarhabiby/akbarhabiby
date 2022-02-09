@@ -1,6 +1,6 @@
 ## Hi there! I'm [Akbar!](http://akbarhabiby.net) 👋
 
-👨🏻‍💻 Currently working on Network Industry.\
+👨🏻‍💻 Currently working on orchestrator company.\
 💡 I like to explore new technologies, I'm a Tech Enthusiast.\
 🌱 Learning everything about Front-End and Back-End technologies.\
 🔭 Interest: Learning Golang, because I really love Back-End.\
@@ -13,12 +13,14 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/akbarhabiby)
 
 #### 📚 Languages
-
+[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://www.javascript.com)
 [![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)](https://golang.org)
 
 #### ✨ Back-End
 [![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)](https://expressjs.com)
+[![NestJS](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)](https://nestjs.com)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)](https://www.mongodb.com)
 [![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)](https://redis.io)
 [![socket.io](https://img.shields.io/badge/-socket.io-05122A?style=flat&logo=socket.io)](https://socket.io)

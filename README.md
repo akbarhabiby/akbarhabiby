@@ -12,9 +12,9 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/akbarhabiby)
 
 #### 📚 Languages
+[![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)](https://golang.org)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://www.javascript.com)
-[![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)](https://golang.org)
 
 #### ✨ Back-End
 [![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)](https://expressjs.com)

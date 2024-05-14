@@ -8,7 +8,7 @@
 
 #### You may reach me at
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akbarhabiby)
-[![Spotify](https://img.shields.io/badge/-Spotify-1CD05D?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mc4unooh8oxhz45ec5d1vvvq3)
+[![Spotify](https://img.shields.io/badge/-Spotify-1CD05D?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21znroutsdqlbwk2zrhblg6ra)
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/akbarhabiby)
 
 #### 📚 Languages

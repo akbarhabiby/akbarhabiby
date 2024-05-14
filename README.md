@@ -1,9 +1,9 @@
-## Hi there! I'm [Akbar!](http://akbarhabiby.net) 👋
+## Hi there! I'm [Akbar!](http://akbar.hk) 👋
 
-👨🏻‍💻 Currently working on orchestrator company.\
+👨🏻‍💻 Currently working on fintech company.\
 💡 I like to explore new technologies, I'm a Tech Enthusiast.\
 🌱 Learning everything about Front-End and Back-End technologies.\
-🔭 Interest: Learning Golang, because I really love Back-End.\
+🔭 Interest: Learning Golang and Rust because I really love Back-End.\
 ⚡ Fun fact: I love Coding and Music.
 
 #### You may reach me at

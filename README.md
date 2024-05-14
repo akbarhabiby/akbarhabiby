@@ -1,4 +1,4 @@
-## Hi there! I'm [Akbar!](http://akbar.hk) 👋
+## Hi there! I'm [Akbar!](https://akbar.hk) 👋
 
 👨🏻‍💻 Currently working on fintech company.\
 💡 I like to explore new technologies, I'm a Tech Enthusiast.\

@@ -59,7 +59,7 @@
 [![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=007ACC)](https://www.microsoft.com/en-us/windows)
 
 #### 🎵 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21znroutsdqlbwk2zrhblg6ra&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21znroutsdqlbwk2zrhblg6ra&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 #### Statistics
 [![akbarhabiby github streaks](https://github-readme-streak-stats.herokuapp.com/?user=akbarhabiby&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)

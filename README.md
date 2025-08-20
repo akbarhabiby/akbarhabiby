@@ -6,11 +6,6 @@
 🔭 Interest: Learning Golang and Rust because I really love Back-End.\
 ⚡ Fun fact: I love Coding and Music.
 
-#### You may reach me at
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akbarhabiby)
-[![Spotify](https://img.shields.io/badge/-Spotify-1CD05D?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21znroutsdqlbwk2zrhblg6ra)
-[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/akbarhabiby)
-
 #### 📚 Languages
 [![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)](https://golang.org)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org)

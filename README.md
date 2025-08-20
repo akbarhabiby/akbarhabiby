@@ -1,6 +1,6 @@
 ## Hi there! I'm [Akbar!](https://akbar.hk) 👋
 
-👨🏻‍💻 Currently working on fintech company.\
+👨🏻‍💻 Currently working at an AI company.\
 💡 I like to explore new technologies, I'm a Tech Enthusiast.\
 🌱 Learning everything about Front-End and Back-End technologies.\
 🔭 Interest: Learning Golang and Rust because I really love Back-End.\
